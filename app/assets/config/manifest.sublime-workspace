@@ -1,0 +1,597 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"params"
+			],
+			[
+				"http_",
+				"http_url"
+			],
+			[
+				"http",
+				"http_type"
+			],
+			[
+				"by",
+				"byebug"
+			],
+			[
+				"a",
+				"article\tTag"
+			],
+			[
+				"title",
+				"title-small"
+			],
+			[
+				"text-",
+				"text-lead"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-shadow"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ba",
+				"background-attachment"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"S",
+				"simbols"
+			],
+			[
+				"rand",
+				"rand_method"
+			],
+			[
+				"s",
+				"symbols"
+			],
+			[
+				"user",
+				"user_operation"
+			],
+			[
+				"su",
+				"subtraction"
+			],
+			[
+				"fi",
+				"first_number"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"wi",
+				"wiktionary"
+			],
+			[
+				"patt",
+				"pattern"
+			],
+			[
+				"re",
+				"regexp_string"
+			],
+			[
+				"si",
+				"simbols"
+			],
+			[
+				"dow",
+				"downcase"
+			],
+			[
+				"dire",
+				"directors"
+			],
+			[
+				"tr",
+				"translit_result"
+			],
+			[
+				"all",
+				"all_lines"
+			],
+			[
+				"time",
+				"time_string"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"director",
+				"director_film"
+			],
+			[
+				"mo",
+				"movie"
+			],
+			[
+				"uni",
+				"uniq"
+			],
+			[
+				"di",
+				"director_film"
+			],
+			[
+				"na",
+				"name_film"
+			],
+			[
+				"w",
+				"wrong_answer"
+			],
+			[
+				"co",
+				"correct_answer"
+			],
+			[
+				"cur",
+				"current_path"
+			],
+			[
+				"an",
+				"answers"
+			],
+			[
+				"qu",
+				"questions"
+			],
+			[
+				"size",
+				"size_strings_array"
+			],
+			[
+				"string",
+				"strings_array"
+			],
+			[
+				"strin",
+				"strings_array"
+			],
+			[
+				"test",
+				"test_data"
+			],
+			[
+				"A",
+				"ARGV"
+			],
+			[
+				"be",
+				"between"
+			],
+			[
+				"credit",
+				"credit_history"
+			],
+			[
+				"to_",
+				"to_a"
+			],
+			[
+				"at",
+				"athlete_1"
+			],
+			[
+				"se",
+				"second_name"
+			],
+			[
+				"human",
+				"human_1"
+			],
+			[
+				"cha",
+				"change_color"
+			],
+			[
+				"i",
+				"include"
+			],
+			[
+				"leter",
+				"letters"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"ma",
+				"max_variable"
+			],
+			[
+				"n",
+				"numbers"
+			],
+			[
+				"b",
+				"broken_count"
+			],
+			[
+				"egg",
+				"eggs"
+			],
+			[
+				"eg",
+				"egg"
+			],
+			[
+				"do",
+				"dollar_rate"
+			],
+			[
+				"dol",
+				"dollar_amount"
+			],
+			[
+				"dolla",
+				"dollar_rate"
+			],
+			[
+				"t",
+				"to_i"
+			],
+			[
+				"vac",
+				"vacation_day2"
+			],
+			[
+				"va",
+				"vacation_day1"
+			],
+			[
+				"da",
+				"day2"
+			],
+			[
+				"day",
+				"day1"
+			],
+			[
+				"variable",
+				"variable_2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/vadim91/rortut/askme"
+	],
+	"file_history":
+	[
+		"/home/rubytut/dice/dice.rb",
+		"/home/rubytut/dice/.gitignore",
+		"/home/vadim91/hello/app/models/application_record.rb",
+		"/home/vadim91/hello/bin/rails",
+		"/home/rubytut/ror/routes.rb",
+		"/home/rubytut/ror/shpala.rb",
+		"/home/rubytut/repeat/film.rb",
+		"/home/rubytut/repeat/main.rb",
+		"/home/rubytut/lesson14/14-2_films/main.rb",
+		"/home/rubytut/repeat/14-2/film2.rb",
+		"/home/rubytut/repeat/14-2/film.rb",
+		"/home/rubytut/lesson16/16-2/print_smiley.rb",
+		"/home/rubytut/lesson25/hero.rb",
+		"/home/rubytut/lesson25/mendeleev.rb",
+		"/home/rubytut/lesson16/16-1/my_diary.rb",
+		"/home/vadim91/Загрузки/Syroezhkin /store.rb",
+		"/home/vadim91/Загрузки/Syroezhkin /lib/product.rb",
+		"/home/vadim91/Загрузки/Syroezhkin /lib/cart.rb",
+		"/home/vadim91/Загрузки/Syroezhkin /lib/product_collection.rb",
+		"/home/vadim91/Загрузки/Syroezhkin /lib/book.rb",
+		"/home/vadim91/Загрузки/Syroezhkin /lib/film.rb",
+		"/home/vadim91/Загрузки/Syroezhkin /lib/disk.rb",
+		"/home/rubytut/fizzbuzz.rb",
+		"/home/vadim91/Загрузки/task-26-03 (3)/main.rb",
+		"/home/vadim91/Загрузки/task-26-03 (3)/lib/clothing.rb",
+		"/home/vadim91/Загрузки/task-26-03 (3)/lib/clothes_collection.rb",
+		"/home/rubytut/lesson26/26-3/lib/clothes_item.rb",
+		"/home/rubytut/lesson26/26-3/lib/wardrobe.rb",
+		"/home/rubytut/lesson26/26-3/main.rb",
+		"/home/rubytut/victorina-master/main.rb",
+		"/home/rubytut/victorina-master/lib/quiz.rb",
+		"/home/rubytut/lesson27/films_books_shop/lib/to_s.rb",
+		"/home/rubytut/victorina-master/lib/question.rb",
+		"/home/rubytut/lesson14/14-2_films/film.rb",
+		"/home/vadim91/.cache/.fr-BHyz2h/14-2_films/main.rb",
+		"/home/vadim91/.cache/.fr-HA2YiZ/14-2_films/film.rb",
+		"/home/vadim91/.cache/.fr-jmZdvP/14-2_films/main.rb",
+		"/home/rubytut/lesson12/12-4_Kuzmin_Vadim/main.rb",
+		"/home/vadim91/.cache/.fr-rYXsqB/26-3/lib/wardrobe.rb",
+		"/home/rubytut/lesson25/birthday/method.rb",
+		"/home/rubytut/lesson29/quiz/main.rb",
+		"/home/rubytut/lesson45/index.html",
+		"/home/rubytut/lesson45/articles-block.css",
+		"/home/rubytut/lesson45/features.css",
+		"/home/rubytut/lesson45/grid.css",
+		"/home/rubytut/lesson45/button.css",
+		"/home/rubytut/lesson45/intro.css",
+		"/home/rubytut/lesson45/text.css",
+		"/home/rubytut/lesson45/reset.css",
+		"/home/vadim91/Документы/с флешки 5 февраля 2017 г./все только моё/логин и пароль2.txt",
+		"/home/vadim91/Документы/с флешки 5 февраля 2017 г./все только моё/логин и пароль",
+		"/home/vadim91/Загрузки/phone_number2.rb",
+		"/home/rubytut/lesson18/18-2_v2/main.rb",
+		"/home/rubytut/lesson29/quiz/lib/interaction.rb",
+		"/home/rubytut/lesson18/ 18-2/phone_number.rb",
+		"/home/rubytut/lesson18/18-2_v2/lib/phone-master/lib/phone.rb",
+		"/home/rubytut/lesson18/18-2_v2/lib/phone_number_validator.rb",
+		"/home/vadim91/Загрузки/18-2_v2/lib/phone_number_validator.rb",
+		"/home/rubytut/lesson18/18-2_v2_with_module/lib/phone_number_validator.rb",
+		"/home/rubytut/lesson18/18-2_v2_with_module/main.rb",
+		"/home/vadim91/Загрузки/homework29-2/lib/victorina.rb",
+		"/home/rubytut/lesson18/18-2_v2/phone_number2.rb",
+		"/home/rubytut/lesson31/ex11-6/lib/credit_request.rb",
+		"/home/rubytut/lesson18/phone_number.rb",
+		"/home/vadim91/Загрузки/tyry-pyry_1.rb",
+		"/home/rubytut/lesson21/tyry-pyry.rb",
+		"/home/vadim91/Загрузки/tyry-pyry(1).rb",
+		"/home/rubytut/lesson17/palindrom.rb",
+		"/home/rubytut/lesson18/ 18-2/phone_number2.rb",
+		"/home/vadim91/Загрузки/palindrom(1).rb",
+		"/home/rubytut/lesson21/time.rb",
+		"/home/rubytut/lesson12/12-4_Kuzmin_Vadim/lib/result_printer.rb",
+		"/home/rubytut/lesson12/12-4_Kuzmin_Vadim/data/test_data.rb",
+		"/home/rubytut/lesson12/12-4_Kuzmin_Vadim/lib/test.rb",
+		"/home/rubytut/lesson12/12-4_Kuzmin_Vadim/test.rb",
+		"/home/rubytut/lesson12/12-4_Kuzmin_Vadim/test_data.rb",
+		"/home/rubytut/lesson12/12-4_Kuzmin_Vadim/result_printer.rb",
+		"/home/vadim91/Загрузки/02_credit_request/spec/credit_request_spec.rb",
+		"/home/rubytut/rand_method.rb",
+		"/home/rubytut/lesson27/films_books_shop/lib/product_collection.rb",
+		"/home/rubytut/ruby_method_spec.rb",
+		"/home/vadim91/Загрузки/ruby-2.4.1/test/psych/test_numeric.rb",
+		"/home/vadim91/Загрузки/ruby-2.4.1/test/lib/-test-/integer.rb",
+		"/home/vadim91/Загрузки/ruby-2.4.1/test/psych/test_psych.rb",
+		"/home/vadim91/Загрузки/ruby-2.4.1/test/minitest/metametameta.rb",
+		"/home/vadim91/Загрузки/ruby-2.4.1/test/ruby/test_integer.rb",
+		"/home/vadim91/Загрузки/ruby-2.4.1/test/test_mathn.rb",
+		"/home/vadim91/Загрузки/ruby-2.4.1/test/test_find.rb",
+		"/home/vadim91/Загрузки/ruby-2.4.1/test/ruby/test_math.rb",
+		"/home/vadim91/Загрузки/ruby-2.4.1/test/ruby/test_fixnum.rb",
+		"/home/vadim91/Загрузки/ruby-2.4.1/test/test_time.rb",
+		"/home/vadim91/Загрузки/ruby-2.4.1/test/test_cmath.rb",
+		"/home/vadim91/Загрузки/ruby-2.4.1/tool/test/test_jisx0208.rb",
+		"/home/vadim91/Загрузки/ruby-2.4.1/test/pathname/test_pathname.rb",
+		"/home/vadim91/Загрузки/ruby-2.4.1/gems/test-unit-3.2.3/lib/test/unit/version.rb",
+		"/home/vadim91/Загрузки/sklonjator_refactored/sklonjator.rb",
+		"/home/vadim91/Загрузки/sklonjator_refactored/sklonjator_spec.rb",
+		"/home/vadim91/Загрузки/sklonjator/sklonjator.rb",
+		"/home/vadim91/Загрузки/sklonjator/sklonjator_spec.rb",
+		"/home/vadim91/Загрузки/victorina/lib/question.rb",
+		"/home/vadim91/Загрузки/victorina/lib/question_collection.rb",
+		"/home/vadim91/Загрузки/victorina/main.rb",
+		"/home/vadim91/Загрузки/victorina/data/data.xml",
+		"/home/rubytut/lesson13/13-3/for_lesson/answers",
+		"/home/rubytut/lesson13/13-3/for_lesson/questions",
+		"/home/rubytut/lesson13/13-3/quiz.rb",
+		"/home/vadim91/Загрузки/expenses_tracker/expenses_reader.rb",
+		"/home/vadim91/Загрузки/03_store/main.rb",
+		"/home/vadim91/Загрузки/03_store/lib/film.rb",
+		"/home/vadim91/Загрузки/03_store/lib/product.rb",
+		"/home/vadim91/Загрузки/01_store/lib/product.rb",
+		"/home/vadim91/Загрузки/01_store/lib/film.rb",
+		"/home/vadim91/Загрузки/01_store/main.rb",
+		"/home/vadim91/Загрузки/notepad/task.rb",
+		"/home/vadim91/Загрузки/notepad/main.rb",
+		"/home/vadim91/Загрузки/notepad/post.rb",
+		"/home/vadim91/Загрузки/notepad/link.rb",
+		"/home/vadim91/Загрузки/notepad/memo.rb",
+		"/home/rubytut/lesson13/13-2/smiley.rb",
+		"/home/rubytut/lesson15/15-4(2)/word_reader.rb",
+		"/home/rubytut/lesson15/15-4(2)/result_printer.rb",
+		"/home/rubytut/lesson15/15-4(2)/game.rb",
+		"/home/rubytut/lesson19/simple_calc.rb",
+		"/home/rubytut/lesson15/send_mail.rb",
+		"/home/rubytut/lesson15/15-4/game.rb",
+		"/home/rubytut/lesson15/15-4/result_printer.rb",
+		"/home/rubytut/lesson15/15-4/viselitsa.rb",
+		"/home/vadim91/Загрузки/viselitsa_v3/viselitsa.rb"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"if (number > lenght_array || number < 0 || number == \"\".to_i)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manifest.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
